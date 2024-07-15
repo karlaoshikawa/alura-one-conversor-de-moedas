@@ -1,3 +1,5 @@
+# alura-one-conversor-de-moedas
+
 ## Projeto de Conversor de Moedas
 
 Este projeto, desenvolvido como parte da formação de especialista em Back-end oferecida pela Alura em parceria com a Oracle, tem como objetivo consolidar os conhecimentos adquiridos ao longo do curso. A aplicação Java desenvolvida permite a conversão de valores entre diferentes moedas, utilizando taxas de câmbio fornecidas pela API CurrencyApi.
@@ -24,4 +26,3 @@ O desafio proposto exigiu a aplicação dos seguintes conhecimentos técnicos:
 - **CurrencyApi**: API que fornece dados de taxa de câmbio em tempo real. Mais informações estão disponíveis em [CurrencyApi](https://www.exchangerate-api.com/).
 
 Este projeto não apenas demonstrou a aplicação prática dos conhecimentos adquiridos, mas também proporcionou um desafio adicional na integração de serviços externos e manipulação de dados em Java.
-# alura-one-conversor-de-moedas
